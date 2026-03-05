@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "apps-manage-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0e49ab42-817f-4362-b2dd-c80b093db01e",
+			"database_name": "zimaos-app"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
